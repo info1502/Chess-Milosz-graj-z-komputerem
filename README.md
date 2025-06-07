@@ -1,0 +1,1 @@
+# Chess-Milosz-graj-z-komputerem
